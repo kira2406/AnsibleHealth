@@ -32,7 +32,7 @@ This script is designed specifically for **Google Colab**, which provides pre-in
 ## 📖 How to Run
 
 ### Method 1: The "Open in Colab" Button
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kira2406/AnsibleHealth/ansible_health_task.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kira2406/AnsibleHealth/blob/main/ansible_health_task.ipynb)
 
 
 ### Method 2: Open Notebook in Google Colab
