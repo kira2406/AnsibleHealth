@@ -31,7 +31,11 @@ This script is designed specifically for **Google Colab**, which provides pre-in
 
 ## 📖 How to Run
 
-### Open Notebook in Google Colab
+### Method 1: The "Open in Colab" Button
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kira2406/AnsibleHealth/ansible_health_task.ipynb)
+
+
+### Method 2: Open Notebook in Google Colab
 1. Download the `ansible_health_task.ipynb` from this repository.
 2. Go to [Google Colab](https://colab.research.google.com/).
 3. Click **File > Upload notebook** and select the `.ipynb` file.
